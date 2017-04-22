@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+이 블로그에는 제가 개발한 것과 설명이 간단히 올라올 예정입니다.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+* *Nukkit* 플러그인 개발
+* *모바일 앱* 개발
+이 가능합니다.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[imaheejae@naver.com](mailto:imaheejae@naver.com)
